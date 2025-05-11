@@ -1,2 +1,2 @@
-# GUESS-THE-NUMBER
-IT'S ABOUT A GAME FOR GUESSING  A NUMBER IF IT IS CORRECT CODE END IF IT IS HIGHER OR LOWER IT WILL SHOW YOU AN ALERT 
+DAILY WORK
+I post my daily or the new small project i learn from anywhere like leetcode,youtube & from other repo.
