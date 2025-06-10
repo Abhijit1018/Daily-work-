@@ -12,4 +12,4 @@ class Solution:
 solution = Solution()
 nums = [2, 7, 11, 15]
 target = 9
-print(solution.twoSum(nums, target))  # Output: [0, 1]
+print(solution.twoSum(nums, target))  # Output: [0, 1]......
